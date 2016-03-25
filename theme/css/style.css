@@ -1,11 +1,7 @@
-p + p {
-  margin-top: 1.5em;
-}
-
 html { 
   font-family: 'Open Sans', 'helvetica', sans-serif;
   background: white;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /* Titles */
