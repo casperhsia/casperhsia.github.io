@@ -123,6 +123,11 @@ a:hover { text-decoration: underline; }
   overflow: scroll;
 }
 
+
+code {
+  border-style: outset;
+}
+
 /* Sidebar */
 aside {
   font-size: 14px;
